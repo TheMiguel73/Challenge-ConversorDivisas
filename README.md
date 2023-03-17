@@ -19,5 +19,8 @@ desarrollado en el lengaje Java y utilizando la IDE Eclipse con los requerimient
 <h1>Ayuda sobre su proyecto</h1>
 <p>El proyecto es adaptable al usuario y guiado con la ayuda de imagenes en la eleccion de tipo de conversion y tambien es de facil manejo</p>
 
+
+<h1>Sobre su proyecto</h1>
+<p>El proyecto esta desarrollada en forma estructural para su primera version</p>
 <h1>Autor del proyecto.</h1>
 <p>Miguel Chura Quispe https://www.linkedin.com/in/miguel-chura/</p>
